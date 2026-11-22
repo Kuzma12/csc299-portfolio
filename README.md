@@ -11,11 +11,13 @@ and a command-line log analysis tool.
 
 ## Projects
 
-| Project | Description | Repository |
-|---------|-------------|------------|
-| Signal Lost | Python spaceship adventure game | [GitHub](https://github.com/Kuzma12/signal-lost) |
-| StudyFlow | HTML, CSS, and JavaScript student dashboard | [GitHub](https://github.com/Kuzma12/studyflow) |
-| LogLens | Python command-line log analyzer | [GitHub](https://github.com/Kuzma12/loglens) |
+| Project | Kind | Repository | What it does |
+|---------|------|------------|--------------|
+| StudyFlow | Web app | https://github.com/Kuzma12/studyflow | Organizes assignments, deadlines, and completed tasks. |
+| Signal Lost | Game | https://github.com/Kuzma12/signal-lost | A spaceship adventure with survival mechanics and saved games. |
+| LogLens | CLI | https://github.com/Kuzma12/loglens | Analyzes log files and filters errors and warnings. |
+
+**Project developed further:** Signal Lost.
 
 ## Main Project: Signal Lost
 
